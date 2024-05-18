@@ -42,3 +42,7 @@
 //     if (error) console.log(error)
 //     else console.log("removed")
 // })
+// fs.mkdir("./document",{recursive:true}, function (error) {
+//     if (error) console.log(error)
+//     else console.log("removed")
+// })
