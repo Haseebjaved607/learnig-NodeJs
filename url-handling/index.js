@@ -3,7 +3,7 @@
 const http = require("http");
 
 const fs = require("fs");
-
+console.log(fs)
 const url = require("url")
 
 const myServer = http.createServer((req , res) =>{
